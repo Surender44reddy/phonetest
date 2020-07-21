@@ -43,7 +43,7 @@ public class PhoneService {
             case '2': return List.of("2","A","B","C");
             case '3': return List.of("3","D","E","F");
             case '4': return List.of("4","G","H","I");
-            case '5': return List.of("5","K","L");
+            case '5': return List.of("5","J","K","L");
             case '6': return List.of("6","M","N","O");
             case '7': return List.of("7","P","Q","R","S");
             case '8': return List.of("8","T","U","V");
